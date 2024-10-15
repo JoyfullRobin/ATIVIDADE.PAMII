@@ -1,3 +1,5 @@
+
+
 import { useState, useEffect } from 'react';
 import { Platform, Text, View, StyleSheet } from 'react-native';
 import * as Device from 'expo-device';
